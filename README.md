@@ -1,29 +1,29 @@
 # .NET_Links
 
-https://github.com/skoruba/IdentityServer4.Admin
-https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core
-https://github.com/dotnet/blazor
-https://github.com/dotnet/aspnetcore
-https://identityserver4.readthedocs.io/en/latest/intro/big_picture.html
-https://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/install-web-services-on-iis#:~:text=Expand%20the%20Server%20Manager%20(computer_name,step%20through%20the%20wizard%20pages.
-http://www.omnisharp.net/
-https://codingvidya.com/best-c-sahrp-books-for-beginners/
-https://github.com/mjebrahimi/SharpMt940Lib.Core
-https://aspnetzero.com/
-https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools
-https://xunit.net/docs/comparisons
-https://thecodeblogger.com/2022/05/19/migrating-to-latest-net-using-upgrade-assistant/
-https://docs.microsoft.com/en-us/dotnet/core/porting/upgrade-assistant-aspnetmvc
-https://github.com/iJoris/mssql-backup-script
-https://medium.com/@doemaar/dont-forget-to-take-a-step-back-in-your-start-up-database-back-ups-in-your-net-application-824983af0ea4
-https://www.thinktecture.com/blazor/global-exception-handling/
-https://michaelscodingspot.com/web-application-csharp-server-side/
-https://koukia.ca/search-for-a-string-in-all-tables-and-all-fields-of-a-database-with-tsql-b6f8a1bfda37
-https://benchmarkdotnet.org/articles/overview.html
-https://devblogs.microsoft.com/dotnet/introducing-web-live-preview/
-https://www.claudiobernasconi.ch/2022/03/01/13-csharp-nuget-packages-every-dotnet-developer-needs-to-know/
-https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
-https://codingvidya.com/best-c-sharp-books-for-beginners/
-https://github.com/coverlet-coverage/coverlet#Quick-Start
-https://devblogs.microsoft.com/dotnet/
-https://learn.microsoft.com/en-us/dotnet/core/install/how-to-detect-installed-versions?pivots=os-windows
+# https://github.com/skoruba/IdentityServer4.Admin
+# https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core
+# https://github.com/dotnet/blazor
+# https://github.com/dotnet/aspnetcore
+# https://identityserver4.readthedocs.io/en/latest/intro/big_picture.html
+# https://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/install-web-services-on-iis#:~:text=Expand%20the%20Server%20Manager%20(computer_name,step%20through%20the%20wizard%20pages.
+# http://www.omnisharp.net/
+# https://codingvidya.com/best-c-sahrp-books-for-beginners/
+# https://github.com/mjebrahimi/SharpMt940Lib.Core
+# https://aspnetzero.com/
+# https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools
+# https://xunit.net/docs/comparisons
+# https://thecodeblogger.com/2022/05/19/migrating-to-latest-net-using-upgrade-assistant/
+# https://docs.microsoft.com/en-us/dotnet/core/porting/upgrade-assistant-aspnetmvc
+# https://github.com/iJoris/mssql-backup-script
+# https://medium.com/@doemaar/dont-forget-to-take-a-step-back-in-your-start-up-database-back-ups-in-your-net-application-824983af0ea4
+# https://www.thinktecture.com/blazor/global-exception-handling/
+# https://michaelscodingspot.com/web-application-csharp-server-side/
+# https://koukia.ca/search-for-a-string-in-all-tables-and-all-fields-of-a-database-with-tsql-b6f8a1bfda37
+# https://benchmarkdotnet.org/articles/overview.html
+# https://devblogs.microsoft.com/dotnet/introducing-web-live-preview/
+# https://www.claudiobernasconi.ch/2022/03/01/13-csharp-nuget-packages-every-dotnet-developer-needs-to-know/
+# https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+# https://codingvidya.com/best-c-sharp-books-for-beginners/
+# https://github.com/coverlet-coverage/coverlet#Quick-Start
+# https://devblogs.microsoft.com/dotnet/
+# https://learn.microsoft.com/en-us/dotnet/core/install/how-to-detect-installed-versions?pivots=os-windows
